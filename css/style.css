@@ -1,0 +1,28 @@
+main, footer{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* text-align: left;  */
+}
+h1{
+    color: #ffA07A;
+}
+svg {
+    float: inline-start;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    float: left;
+}
+figure{
+    text-align: center;
+}
+h2{
+    color: #ffA07A;
+
+}
+/* .font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
