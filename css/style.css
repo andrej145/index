@@ -3,39 +3,49 @@ header{
     width: 600px;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* text-align: left;  */
 }
 h1{
     color: #ffA07A;
+    font-size: xx-large;
 }
 svg {
-    
     text-align: center;
 }
+
 img{
     border-radius: 50%;
     float: left;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    width: 175px;
+    height: 175px;
 }
-figure{
+
+.figure{
     text-align: center;
+    font-size: small;
 }
+
 h2{
     color: #ffA07A;
+    font-size: small;
 
 }
-/* .font{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-} */
-/* hr{
-    align: center;
-} */
-.example{
-    border: 1px solid #454545;
-    padding: 3px;
-    background: #454545;
-    width: 200px;
-}
-div{
+.example1{
     text-align: left;
-    border: 0px;
+    left: 130px;
+    top: 10px;
+    position: relative;
+
+}
+.rectangle{
+    height: 8px;
+    width: 179px;
+    background-color: #454545;
+    position: relative;
+    left: 176px;
+}
+p{
+    font-size: small;
 }
